@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aseim99. I quit my high paying daily job which was killing me from inside to start a new career (own startup) in games and software development. 
-- 👀 I’m interested in Games development, Softwares development and ML, AI models (financial markets) development.  
+- 👀 I’m interested in Games development, Softwares development and ML, AI models development.  
 - 🌱 I’m currently learning C Sharp and have created two games already on android and iOS (using Unity).  
 
 <!---
